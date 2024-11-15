@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: 9470dc1db8c91c74d8d341c856240707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3387788915981300456
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_0
+  - first:
+      213: 6453814785514034924
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_1
+  - first:
+      213: 829811408239396966
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_2
+  - first:
+      213: -8158079039340378665
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_3
+  - first:
+      213: -7182322170533961038
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_4
+  - first:
+      213: -7108231099023637317
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_5
+  - first:
+      213: -5802131217337537730
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_6
+  - first:
+      213: -6285125433464196180
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_7
+  - first:
+      213: -7396764086055635104
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_8
+  - first:
+      213: 2489387894575638466
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_9
+  - first:
+      213: -9145108723719473699
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_10
+  - first:
+      213: -8773128732883634419
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_11
+  - first:
+      213: 1217016541489281198
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_12
+  - first:
+      213: 7185020495004650032
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_13
+  - first:
+      213: -8475699350357378447
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_14
+  - first:
+      213: 7482355115516961989
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_15
+  - first:
+      213: -3109997920641360770
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_16
+  - first:
+      213: 2885668707658254838
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_17
+  - first:
+      213: 6182305288958791482
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_18
+  - first:
+      213: -1116183973019194567
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_19
+  - first:
+      213: 6946412538019603811
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_20
+  - first:
+      213: -2316896776367921415
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_21
+  - first:
+      213: 3664414817503955840
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_22
+  - first:
+      213: -3841430165994145489
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_23
+  - first:
+      213: -2049448982648415190
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_24
+  - first:
+      213: 4737273187079420779
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_25
+  - first:
+      213: -4444755930377308908
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_26
+  - first:
+      213: -7203488225480385094
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_27
+  - first:
+      213: 9179220810224576676
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_28
+  - first:
+      213: 7309354048340132816
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_29
+  - first:
+      213: 996563110102828769
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_30
+  - first:
+      213: -3897933594251631460
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_31
+  - first:
+      213: -1940550946651869497
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_32
+  - first:
+      213: 4747384384497371366
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_33
+  - first:
+      213: -6444075088337098863
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_34
+  - first:
+      213: 8667151698532396632
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_35
+  - first:
+      213: 2657784577155092957
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_36
+  - first:
+      213: 2582883859976415734
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_37
+  - first:
+      213: 6706693207585550636
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_38
+  - first:
+      213: -5667671629179042117
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_39
+  - first:
+      213: 2321091030776988881
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_40
+  - first:
+      213: -1108682651045718975
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_41
+  - first:
+      213: -780599388592743434
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_42
+  - first:
+      213: 4709384492358063710
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_43
+  - first:
+      213: 3598738357727900534
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_44
+  - first:
+      213: 196387886811373779
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_45
+  - first:
+      213: -5994653080417739637
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_46
+  - first:
+      213: 5587924007278329073
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_47
+  - first:
+      213: 360601249138839322
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_48
+  - first:
+      213: 5660446108900988336
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_49
+  - first:
+      213: 4681877366958206283
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_50
+  - first:
+      213: -8691100241737207126
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_51
+  - first:
+      213: -7962330570730096347
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_52
+  - first:
+      213: 5890905976948212833
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_53
+  - first:
+      213: 4769732892834825552
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_54
+  - first:
+      213: -3430474579217250587
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_55
+  - first:
+      213: 8883019728444875708
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_56
+  - first:
+      213: -3136920616434356248
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_57
+  - first:
+      213: -9129143195516120520
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_58
+  - first:
+      213: 2220695712983342818
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_59
+  - first:
+      213: 232032427139611178
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_60
+  - first:
+      213: -8418507351299087764
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_61
+  - first:
+      213: -7596822414980303374
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_62
+  - first:
+      213: 4554627358898669574
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_63
+  - first:
+      213: -3253958306725362570
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_64
+  - first:
+      213: -2907150884736416481
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_65
+  - first:
+      213: -5223920789505181230
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_66
+  - first:
+      213: -34681191281936001
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_67
+  - first:
+      213: 4821615655750490864
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_68
+  - first:
+      213: 5510611560279335036
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_69
+  - first:
+      213: -5780515019660948520
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_70
+  - first:
+      213: -9200847650418044080
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_71
+  - first:
+      213: -3134089242193010441
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_72
+  - first:
+      213: -8281740417561400582
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_73
+  - first:
+      213: 2887869173424311228
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_74
+  - first:
+      213: -5104871161026672413
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_75
+  - first:
+      213: -1775963594232494611
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_76
+  - first:
+      213: -5487999454422214448
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_77
+  - first:
+      213: -7465374317999065978
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_78
+  - first:
+      213: -887156683439993780
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_79
+  - first:
+      213: 3326948107118782817
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_80
+  - first:
+      213: -4276995315805594361
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_81
+  - first:
+      213: -9051734751127028185
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_82
+  - first:
+      213: 6994504048602305417
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_83
+  - first:
+      213: -2047626098450408291
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_84
+  - first:
+      213: -7530633368029321534
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_85
+  - first:
+      213: -8985596826053030451
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_86
+  - first:
+      213: 3950582282751920408
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_87
+  - first:
+      213: -3598975705011149012
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_88
+  - first:
+      213: -5234333498717790833
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_89
+  - first:
+      213: 8816841978272000835
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_90
+  - first:
+      213: 4895386790911410552
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_91
+  - first:
+      213: -5517173946926402977
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_92
+  - first:
+      213: -5238211618244036164
+    second: Sega Genesis 32X - Dark Castle - Enemies and Items_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dcde02ee72cf0d0800000000000000
+      internalID: -3387788915981300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 619
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65ab88a5e809950800000000000000
+      internalID: 6453814785514034924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 619
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6680daa4415148b00800000000000000
+      internalID: 829811408239396966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 619
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d58e8a465ea8ce80800000000000000
+      internalID: -8158079039340378665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 619
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b229ea1a04435c90800000000000000
+      internalID: -7182322170533961038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 596
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4cf49f97d7a5d90800000000000000
+      internalID: -7108231099023637317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 596
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b246a1660ba7fa0800000000000000
+      internalID: -5802131217337537730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 596
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f791e7bfb6c8a0800000000000000
+      internalID: -6285125433464196180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 596
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677943e04a695990800000000000000
+      internalID: -7396764086055635104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 596
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7a65cc9151c8220800000000000000
+      internalID: 2489387894575638466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 596
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ff52911c061180800000000000000
+      internalID: -9145108723719473699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b2b346e59f3680800000000000000
+      internalID: -8773128732883634419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 603
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83e31b816b3e010800000000000000
+      internalID: 1217016541489281198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 603
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a47a4821256b360800000000000000
+      internalID: 7185020495004650032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 603
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a70f6d854406a80800000000000000
+      internalID: -8475699350357378447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c427b7955aa6d760800000000000000
+      internalID: 7482355115516961989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 559
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cd7ff5e5117d4d0800000000000000
+      internalID: -3109997920641360770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 559
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f94e639664fb0820800000000000000
+      internalID: 2885668707658254838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 559
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f4861b7e5fbc550800000000000000
+      internalID: 6182305288958791482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 559
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93be43027948280f0800000000000000
+      internalID: -1116183973019194567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 559
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656aff466d966060800000000000000
+      internalID: 6946412538019603811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 559
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6a75748aab8dfd0800000000000000
+      internalID: -2316896776367921415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 559
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b40039cdd9ad230800000000000000
+      internalID: 3664414817503955840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 559
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f276ed9f70bac0800000000000000
+      internalID: -3841430165994145489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 559
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c94fb3205ee83e0800000000000000
+      internalID: -2049448982648415190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 559
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf9df4ddc2eb140800000000000000
+      internalID: 4737273187079420779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 559
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415bc88d70e0152c0800000000000000
+      internalID: -4444755930377308908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 564
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd5888ef91180c90800000000000000
+      internalID: -7203488225480385094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 564
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a82f4c71b4236f70800000000000000
+      internalID: 9179220810224576676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 564
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d380e4c7ca007560800000000000000
+      internalID: 7309354048340132816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e600fd5ed084dd00800000000000000
+      internalID: 996563110102828769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 543
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94e1945c02c7e9c0800000000000000
+      internalID: -3897933594251631460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 543
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce644c0237c115e0800000000000000
+      internalID: -1940550946651869497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 543
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c33ae1f812e140800000000000000
+      internalID: 4747384384497371366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 541
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19729bd69db0296a0800000000000000
+      internalID: -6444075088337098863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 541
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e627d9c88e74870800000000000000
+      internalID: 8667151698532396632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 541
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd157dacdf852e420800000000000000
+      internalID: 2657784577155092957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ebf99f2f38d320800000000000000
+      internalID: 2582883859976415734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 524
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2179af40f5f21d50800000000000000
+      internalID: 6706693207585550636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 524
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6493f8ea26851b0800000000000000
+      internalID: -5667671629179042117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 524
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ceccaefb263020800000000000000
+      internalID: 2321091030776988881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 524
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14418cfb00b2d90f0800000000000000
+      internalID: -1108682651045718975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 524
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbda0bedf0ca25f0800000000000000
+      internalID: -780599388592743434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e565cb19e381b5140800000000000000
+      internalID: 4709384492358063710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_44
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 524
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b1fb287941f130800000000000000
+      internalID: 3598738357727900534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e4971eb5b9b200800000000000000
+      internalID: 196387886811373779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 505
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cdffdc8c6becca0800000000000000
+      internalID: -5994653080417739637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 505
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb3bd474b4c8d40800000000000000
+      internalID: 5587924007278329073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_48
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 505
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f8b70fcec110500800000000000000
+      internalID: 360601249138839322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 505
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51947eeb1fd8e40800000000000000
+      internalID: 5660446108900988336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 507
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d2c7bd8ae59f040800000000000000
+      internalID: 4681877366958206283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 505
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa231f7a062036780800000000000000
+      internalID: -8691100241737207126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 444
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529366b388e108190800000000000000
+      internalID: -7962330570730096347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 444
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164493156c3b0c150800000000000000
+      internalID: 5890905976948212833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558aee7bce713240800000000000000
+      internalID: 4769732892834825552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_55
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e68fbeab818460d0800000000000000
+      internalID: -3430474579217250587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_56
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 444
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb36eb6f063d64b70800000000000000
+      internalID: 8883019728444875708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 444
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efa4d8c15b6774d0800000000000000
+      internalID: -3136920616434356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 406
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8325697c1a4ce4180800000000000000
+      internalID: -9129143195516120520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 406
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeda963cfe71de10800000000000000
+      internalID: 2220695712983342818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 406
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a370c5348583300800000000000000
+      internalID: 232032427139611178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_61
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 368
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62adcaca247b2b80800000000000000
+      internalID: -8418507351299087764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_62
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 368
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5bf55634aa29690800000000000000
+      internalID: -7596822414980303374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 368
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6084e639379453f30800000000000000
+      internalID: 4554627358898669574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 323
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67404b5092e97d2d0800000000000000
+      internalID: -3253958306725362570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 323
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c2de4ca9b7a7d0800000000000000
+      internalID: -2907150884736416481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 323
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9f3ce28b7e087b0800000000000000
+      internalID: -5223920789505181230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 323
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b049e3a9c48ff0800000000000000
+      internalID: -34681191281936001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 323
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa587494e1d9e240800000000000000
+      internalID: 4821615655750490864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_69
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 323
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c706c918400a97c40800000000000000
+      internalID: 5510611560279335036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 280
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8c42573c77cfa0800000000000000
+      internalID: -5780515019660948520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 280
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05358546fc5005080800000000000000
+      internalID: -9200847650418044080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 279
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f066b8707a7184d0800000000000000
+      internalID: -3134089242193010441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 279
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afae14108f8511d80800000000000000
+      internalID: -8281740417561400582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 264
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc1cf66b5c31820800000000000000
+      internalID: 2887869173424311228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_75
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88edec9bad729b0800000000000000
+      internalID: -5104871161026672413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de50fbf35828a57e0800000000000000
+      internalID: -1775963594232494611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_77
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d850a7a295b6d3b0800000000000000
+      internalID: -5487999454422214448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 264
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684775c6c99a56890800000000000000
+      internalID: -7465374317999065978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c027f52bf20b3f0800000000000000
+      internalID: -887156683439993780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 264
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16929fe2da1bb2e20800000000000000
+      internalID: 3326948107118782817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_81
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd567bb6f05a4c0800000000000000
+      internalID: -4276995315805594361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_82
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 211
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eb306b337c16280800000000000000
+      internalID: -9051734751127028185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 211
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d8fcaf58711160800000000000000
+      internalID: 6994504048602305417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 210
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c5b0989ee5593e0800000000000000
+      internalID: -2047626098450408291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 210
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a8ecc9d0dd7790800000000000000
+      internalID: -7530633368029321534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_86
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 210
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4b306b4fbc4380800000000000000
+      internalID: -8985596826053030451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_87
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 189
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8194163b7a943d630800000000000000
+      internalID: 3950582282751920408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_88
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 189
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ac8b1aaedd0ec0800000000000000
+      internalID: -3598975705011149012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_89
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 161
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9ff46a69eb57b0800000000000000
+      internalID: -5234333498717790833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ba7abc017bb5a70800000000000000
+      internalID: 8816841978272000835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 70
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710a667958efe340800000000000000
+      internalID: 4895386790911410552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 58
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f527969c68f0f63b0800000000000000
+      internalID: -5517173946926402977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Enemies and Items_93
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 58
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97d3459422e47b0800000000000000
+      internalID: -5238211618244036164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sega Genesis 32X - Dark Castle - Enemies and Items_0: -3387788915981300456
+      Sega Genesis 32X - Dark Castle - Enemies and Items_1: 6453814785514034924
+      Sega Genesis 32X - Dark Castle - Enemies and Items_10: -9145108723719473699
+      Sega Genesis 32X - Dark Castle - Enemies and Items_11: -8773128732883634419
+      Sega Genesis 32X - Dark Castle - Enemies and Items_12: 1217016541489281198
+      Sega Genesis 32X - Dark Castle - Enemies and Items_13: 7185020495004650032
+      Sega Genesis 32X - Dark Castle - Enemies and Items_14: -8475699350357378447
+      Sega Genesis 32X - Dark Castle - Enemies and Items_15: 7482355115516961989
+      Sega Genesis 32X - Dark Castle - Enemies and Items_16: -3109997920641360770
+      Sega Genesis 32X - Dark Castle - Enemies and Items_17: 2885668707658254838
+      Sega Genesis 32X - Dark Castle - Enemies and Items_18: 6182305288958791482
+      Sega Genesis 32X - Dark Castle - Enemies and Items_19: -1116183973019194567
+      Sega Genesis 32X - Dark Castle - Enemies and Items_2: 829811408239396966
+      Sega Genesis 32X - Dark Castle - Enemies and Items_20: 6946412538019603811
+      Sega Genesis 32X - Dark Castle - Enemies and Items_21: -2316896776367921415
+      Sega Genesis 32X - Dark Castle - Enemies and Items_22: 3664414817503955840
+      Sega Genesis 32X - Dark Castle - Enemies and Items_23: -3841430165994145489
+      Sega Genesis 32X - Dark Castle - Enemies and Items_24: -2049448982648415190
+      Sega Genesis 32X - Dark Castle - Enemies and Items_25: 4737273187079420779
+      Sega Genesis 32X - Dark Castle - Enemies and Items_26: -4444755930377308908
+      Sega Genesis 32X - Dark Castle - Enemies and Items_27: -7203488225480385094
+      Sega Genesis 32X - Dark Castle - Enemies and Items_28: 9179220810224576676
+      Sega Genesis 32X - Dark Castle - Enemies and Items_29: 7309354048340132816
+      Sega Genesis 32X - Dark Castle - Enemies and Items_3: -8158079039340378665
+      Sega Genesis 32X - Dark Castle - Enemies and Items_30: 996563110102828769
+      Sega Genesis 32X - Dark Castle - Enemies and Items_31: -3897933594251631460
+      Sega Genesis 32X - Dark Castle - Enemies and Items_32: -1940550946651869497
+      Sega Genesis 32X - Dark Castle - Enemies and Items_33: 4747384384497371366
+      Sega Genesis 32X - Dark Castle - Enemies and Items_34: -6444075088337098863
+      Sega Genesis 32X - Dark Castle - Enemies and Items_35: 8667151698532396632
+      Sega Genesis 32X - Dark Castle - Enemies and Items_36: 2657784577155092957
+      Sega Genesis 32X - Dark Castle - Enemies and Items_37: 2582883859976415734
+      Sega Genesis 32X - Dark Castle - Enemies and Items_38: 6706693207585550636
+      Sega Genesis 32X - Dark Castle - Enemies and Items_39: -5667671629179042117
+      Sega Genesis 32X - Dark Castle - Enemies and Items_4: -7182322170533961038
+      Sega Genesis 32X - Dark Castle - Enemies and Items_40: 2321091030776988881
+      Sega Genesis 32X - Dark Castle - Enemies and Items_41: -1108682651045718975
+      Sega Genesis 32X - Dark Castle - Enemies and Items_42: -780599388592743434
+      Sega Genesis 32X - Dark Castle - Enemies and Items_43: 4709384492358063710
+      Sega Genesis 32X - Dark Castle - Enemies and Items_44: 3598738357727900534
+      Sega Genesis 32X - Dark Castle - Enemies and Items_45: 196387886811373779
+      Sega Genesis 32X - Dark Castle - Enemies and Items_46: -5994653080417739637
+      Sega Genesis 32X - Dark Castle - Enemies and Items_47: 5587924007278329073
+      Sega Genesis 32X - Dark Castle - Enemies and Items_48: 360601249138839322
+      Sega Genesis 32X - Dark Castle - Enemies and Items_49: 5660446108900988336
+      Sega Genesis 32X - Dark Castle - Enemies and Items_5: -7108231099023637317
+      Sega Genesis 32X - Dark Castle - Enemies and Items_50: 4681877366958206283
+      Sega Genesis 32X - Dark Castle - Enemies and Items_51: -8691100241737207126
+      Sega Genesis 32X - Dark Castle - Enemies and Items_52: -7962330570730096347
+      Sega Genesis 32X - Dark Castle - Enemies and Items_53: 5890905976948212833
+      Sega Genesis 32X - Dark Castle - Enemies and Items_54: 4769732892834825552
+      Sega Genesis 32X - Dark Castle - Enemies and Items_55: -3430474579217250587
+      Sega Genesis 32X - Dark Castle - Enemies and Items_56: 8883019728444875708
+      Sega Genesis 32X - Dark Castle - Enemies and Items_57: -3136920616434356248
+      Sega Genesis 32X - Dark Castle - Enemies and Items_58: -9129143195516120520
+      Sega Genesis 32X - Dark Castle - Enemies and Items_59: 2220695712983342818
+      Sega Genesis 32X - Dark Castle - Enemies and Items_6: -5802131217337537730
+      Sega Genesis 32X - Dark Castle - Enemies and Items_60: 232032427139611178
+      Sega Genesis 32X - Dark Castle - Enemies and Items_61: -8418507351299087764
+      Sega Genesis 32X - Dark Castle - Enemies and Items_62: -7596822414980303374
+      Sega Genesis 32X - Dark Castle - Enemies and Items_63: 4554627358898669574
+      Sega Genesis 32X - Dark Castle - Enemies and Items_64: -3253958306725362570
+      Sega Genesis 32X - Dark Castle - Enemies and Items_65: -2907150884736416481
+      Sega Genesis 32X - Dark Castle - Enemies and Items_66: -5223920789505181230
+      Sega Genesis 32X - Dark Castle - Enemies and Items_67: -34681191281936001
+      Sega Genesis 32X - Dark Castle - Enemies and Items_68: 4821615655750490864
+      Sega Genesis 32X - Dark Castle - Enemies and Items_69: 5510611560279335036
+      Sega Genesis 32X - Dark Castle - Enemies and Items_7: -6285125433464196180
+      Sega Genesis 32X - Dark Castle - Enemies and Items_70: -5780515019660948520
+      Sega Genesis 32X - Dark Castle - Enemies and Items_71: -9200847650418044080
+      Sega Genesis 32X - Dark Castle - Enemies and Items_72: -3134089242193010441
+      Sega Genesis 32X - Dark Castle - Enemies and Items_73: -8281740417561400582
+      Sega Genesis 32X - Dark Castle - Enemies and Items_74: 2887869173424311228
+      Sega Genesis 32X - Dark Castle - Enemies and Items_75: -5104871161026672413
+      Sega Genesis 32X - Dark Castle - Enemies and Items_76: -1775963594232494611
+      Sega Genesis 32X - Dark Castle - Enemies and Items_77: -5487999454422214448
+      Sega Genesis 32X - Dark Castle - Enemies and Items_78: -7465374317999065978
+      Sega Genesis 32X - Dark Castle - Enemies and Items_79: -887156683439993780
+      Sega Genesis 32X - Dark Castle - Enemies and Items_8: -7396764086055635104
+      Sega Genesis 32X - Dark Castle - Enemies and Items_80: 3326948107118782817
+      Sega Genesis 32X - Dark Castle - Enemies and Items_81: -4276995315805594361
+      Sega Genesis 32X - Dark Castle - Enemies and Items_82: -9051734751127028185
+      Sega Genesis 32X - Dark Castle - Enemies and Items_83: 6994504048602305417
+      Sega Genesis 32X - Dark Castle - Enemies and Items_84: -2047626098450408291
+      Sega Genesis 32X - Dark Castle - Enemies and Items_85: -7530633368029321534
+      Sega Genesis 32X - Dark Castle - Enemies and Items_86: -8985596826053030451
+      Sega Genesis 32X - Dark Castle - Enemies and Items_87: 3950582282751920408
+      Sega Genesis 32X - Dark Castle - Enemies and Items_88: -3598975705011149012
+      Sega Genesis 32X - Dark Castle - Enemies and Items_89: -5234333498717790833
+      Sega Genesis 32X - Dark Castle - Enemies and Items_9: 2489387894575638466
+      Sega Genesis 32X - Dark Castle - Enemies and Items_90: 8816841978272000835
+      Sega Genesis 32X - Dark Castle - Enemies and Items_91: 4895386790911410552
+      Sega Genesis 32X - Dark Castle - Enemies and Items_92: -5517173946926402977
+      Sega Genesis 32X - Dark Castle - Enemies and Items_93: -5238211618244036164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

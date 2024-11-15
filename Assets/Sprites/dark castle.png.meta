@@ -1,0 +1,3562 @@
+fileFormatVersion: 2
+guid: 1523eff0820dac440ad03f6d0cb69a82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1312115086618470298
+    second: dark castle_0
+  - first:
+      213: 3992684557681811813
+    second: dark castle_1
+  - first:
+      213: -7337067905629305463
+    second: dark castle_2
+  - first:
+      213: -1833046295972276178
+    second: dark castle_3
+  - first:
+      213: -6702900421891610886
+    second: dark castle_4
+  - first:
+      213: -8564738675135121974
+    second: dark castle_5
+  - first:
+      213: 8501141453157096001
+    second: dark castle_6
+  - first:
+      213: -7254826767409093558
+    second: dark castle_7
+  - first:
+      213: -1970344905465990792
+    second: dark castle_8
+  - first:
+      213: 970691771166401541
+    second: dark castle_9
+  - first:
+      213: 6770012261060183985
+    second: dark castle_10
+  - first:
+      213: -2248280226366197838
+    second: dark castle_11
+  - first:
+      213: -7039220060971617894
+    second: dark castle_12
+  - first:
+      213: 3034948261027491308
+    second: dark castle_13
+  - first:
+      213: -6666787441058920132
+    second: dark castle_14
+  - first:
+      213: -1343131288832117931
+    second: dark castle_15
+  - first:
+      213: 4296510397389764393
+    second: dark castle_16
+  - first:
+      213: -4495059714036873919
+    second: dark castle_17
+  - first:
+      213: 1391541751940515495
+    second: dark castle_18
+  - first:
+      213: 8613534997999506735
+    second: dark castle_19
+  - first:
+      213: -7268596146629431804
+    second: dark castle_20
+  - first:
+      213: -409998576899437943
+    second: dark castle_21
+  - first:
+      213: -5867494891065187943
+    second: dark castle_22
+  - first:
+      213: -4760999410549706814
+    second: dark castle_23
+  - first:
+      213: 4741454005462324078
+    second: dark castle_24
+  - first:
+      213: 444747307120713116
+    second: dark castle_25
+  - first:
+      213: -2641210665408658139
+    second: dark castle_26
+  - first:
+      213: -1880230649348379383
+    second: dark castle_27
+  - first:
+      213: 8791662561599203209
+    second: dark castle_28
+  - first:
+      213: 6636762435342972885
+    second: dark castle_29
+  - first:
+      213: -323384377174527895
+    second: dark castle_30
+  - first:
+      213: -957106619510485494
+    second: dark castle_31
+  - first:
+      213: -4475771522676352403
+    second: dark castle_32
+  - first:
+      213: 6514524017397125230
+    second: dark castle_33
+  - first:
+      213: 1031052179140670323
+    second: dark castle_34
+  - first:
+      213: 4833558049418566417
+    second: dark castle_35
+  - first:
+      213: 3894343332115217388
+    second: dark castle_36
+  - first:
+      213: -470094903022970090
+    second: dark castle_37
+  - first:
+      213: -1601177771453289300
+    second: dark castle_38
+  - first:
+      213: 2476591923304471411
+    second: dark castle_39
+  - first:
+      213: 6164100741227280302
+    second: dark castle_40
+  - first:
+      213: -3471934866581980622
+    second: dark castle_41
+  - first:
+      213: -8939693503206168580
+    second: dark castle_42
+  - first:
+      213: -3312496596537500246
+    second: dark castle_43
+  - first:
+      213: 3447037228085916498
+    second: dark castle_44
+  - first:
+      213: -4411156954150599995
+    second: dark castle_45
+  - first:
+      213: 7707977156453905032
+    second: dark castle_46
+  - first:
+      213: 7259033528026555230
+    second: dark castle_47
+  - first:
+      213: 8496500493830917092
+    second: dark castle_48
+  - first:
+      213: 8410211288395749226
+    second: dark castle_49
+  - first:
+      213: -3758347999430498214
+    second: dark castle_50
+  - first:
+      213: -2380115455658061315
+    second: dark castle_51
+  - first:
+      213: 2984852029631127897
+    second: dark castle_52
+  - first:
+      213: -19445306860733916
+    second: dark castle_53
+  - first:
+      213: -6248712212831530589
+    second: dark castle_54
+  - first:
+      213: 467968130547694732
+    second: dark castle_55
+  - first:
+      213: -7046790456414405540
+    second: dark castle_56
+  - first:
+      213: -2261742994819786476
+    second: dark castle_57
+  - first:
+      213: -2500574216221912685
+    second: dark castle_58
+  - first:
+      213: 5281840124756521754
+    second: dark castle_59
+  - first:
+      213: -6693995861119051823
+    second: dark castle_60
+  - first:
+      213: -6244017961538076135
+    second: dark castle_61
+  - first:
+      213: -6539538920974587801
+    second: dark castle_62
+  - first:
+      213: -7892279625544239830
+    second: dark castle_63
+  - first:
+      213: -3556327271379923452
+    second: dark castle_64
+  - first:
+      213: -5607046421151274526
+    second: dark castle_65
+  - first:
+      213: 8928112162376311346
+    second: dark castle_66
+  - first:
+      213: 3752556789199310516
+    second: dark castle_67
+  - first:
+      213: 652165482170651253
+    second: dark castle_68
+  - first:
+      213: 3852334359523719403
+    second: dark castle_69
+  - first:
+      213: 8660781402110371260
+    second: dark castle_70
+  - first:
+      213: -7692975138020112075
+    second: dark castle_71
+  - first:
+      213: 592743126747118093
+    second: dark castle_72
+  - first:
+      213: -358129751883340427
+    second: dark castle_73
+  - first:
+      213: -1841792590123695303
+    second: dark castle_74
+  - first:
+      213: 1299595891153452840
+    second: dark castle_75
+  - first:
+      213: 2413249146236609338
+    second: dark castle_76
+  - first:
+      213: -3266370551247602855
+    second: dark castle_77
+  - first:
+      213: -8234246453728040607
+    second: dark castle_78
+  - first:
+      213: 4066708097026279716
+    second: dark castle_79
+  - first:
+      213: 1606578182077033365
+    second: dark castle_80
+  - first:
+      213: 8115201486130930765
+    second: dark castle_81
+  - first:
+      213: -3873934532447046159
+    second: dark castle_82
+  - first:
+      213: 6693722114252633579
+    second: dark castle_83
+  - first:
+      213: 2031252493998494373
+    second: dark castle_84
+  - first:
+      213: -8272544149122807801
+    second: dark castle_85
+  - first:
+      213: -2795972677937278363
+    second: dark castle_86
+  - first:
+      213: 4913081824001268879
+    second: dark castle_87
+  - first:
+      213: -5950406880601883546
+    second: dark castle_88
+  - first:
+      213: 1513523487510671702
+    second: dark castle_89
+  - first:
+      213: 1374234968482644488
+    second: dark castle_90
+  - first:
+      213: 4094256226869256884
+    second: dark castle_91
+  - first:
+      213: -6735222206385287033
+    second: dark castle_92
+  - first:
+      213: 4054456246956934478
+    second: dark castle_93
+  - first:
+      213: 1591045946393352123
+    second: dark castle_94
+  - first:
+      213: -6774674760948986984
+    second: dark castle_95
+  - first:
+      213: 6342807195391002008
+    second: dark castle_96
+  - first:
+      213: 5723506059355000678
+    second: dark castle_97
+  - first:
+      213: -1372633227010167247
+    second: dark castle_98
+  - first:
+      213: -790627053329848773
+    second: dark castle_99
+  - first:
+      213: 6174777710443599968
+    second: dark castle_100
+  - first:
+      213: -2565925165188502140
+    second: dark castle_101
+  - first:
+      213: 4096948286933473849
+    second: dark castle_102
+  - first:
+      213: -3631277174684680407
+    second: dark castle_103
+  - first:
+      213: -2872713614434713354
+    second: dark castle_104
+  - first:
+      213: -3609175928009400751
+    second: dark castle_105
+  - first:
+      213: 9078815974880721744
+    second: dark castle_106
+  - first:
+      213: 9213003831470359345
+    second: dark castle_107
+  - first:
+      213: -7536034313702165767
+    second: dark castle_108
+  - first:
+      213: -5759727339893468038
+    second: dark castle_109
+  - first:
+      213: 3953035336845453393
+    second: dark castle_110
+  - first:
+      213: -5234097707876514627
+    second: dark castle_111
+  - first:
+      213: 4207081674481098226
+    second: dark castle_112
+  - first:
+      213: -1074899611661010871
+    second: dark castle_113
+  - first:
+      213: 4353605964204736590
+    second: dark castle_114
+  - first:
+      213: 7580937122936177487
+    second: dark castle_115
+  - first:
+      213: 1757631706452159435
+    second: dark castle_116
+  - first:
+      213: -436325466594687323
+    second: dark castle_117
+  - first:
+      213: 2658252078215791682
+    second: dark castle_118
+  - first:
+      213: 6174446222193737310
+    second: dark castle_119
+  - first:
+      213: -3807477696986577533
+    second: dark castle_120
+  - first:
+      213: 2628760115872238028
+    second: dark castle_121
+  - first:
+      213: 1377336236670723182
+    second: dark castle_122
+  - first:
+      213: -1644972081107315709
+    second: dark castle_123
+  - first:
+      213: -4487286656077469472
+    second: dark castle_124
+  - first:
+      213: -8245149964459021640
+    second: dark castle_125
+  - first:
+      213: 935123174583180668
+    second: dark castle_126
+  - first:
+      213: 6119934618546834059
+    second: dark castle_127
+  - first:
+      213: -2436744664966273216
+    second: dark castle_128
+  - first:
+      213: -6874560798808708306
+    second: dark castle_129
+  - first:
+      213: 6400948831310731312
+    second: dark castle_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark castle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668dca5d74e6acde0800000000000000
+      internalID: -1312115086618470298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 724
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561efc8737dd86730800000000000000
+      internalID: 3992684557681811813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 724
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985cb000d9f7d2a90800000000000000
+      internalID: -7337067905629305463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 724
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e281abf0b16bf86e0800000000000000
+      internalID: -1833046295972276178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 724
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6a55c64938af2a0800000000000000
+      internalID: -6702900421891610886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 724
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5758a8d8fe32980800000000000000
+      internalID: -8564738675135121974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 724
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad6c45c1f1af570800000000000000
+      internalID: 8501141453157096001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 724
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44e5952e7da15b90800000000000000
+      internalID: -7254826767409093558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f2b07fbde7a4e0800000000000000
+      internalID: -1970344905465990792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 687
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a4ced507987d00800000000000000
+      internalID: 970691771166401541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 687
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70889484ae3fd50800000000000000
+      internalID: 6770012261060183985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 687
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf68e7cb018cc0e0800000000000000
+      internalID: -2248280226366197838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 687
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91bbf166aaaf4e90800000000000000
+      internalID: -7039220060971617894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 687
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedab321d5d4e1a20800000000000000
+      internalID: 3034948261027491308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 686
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c5aef420da73a0800000000000000
+      internalID: -6666787441058920132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 686
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f272853d3c5de0800000000000000
+      internalID: -1343131288832117931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 686
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927703a417540ab30800000000000000
+      internalID: 4296510397389764393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c9a481075e91c0800000000000000
+      internalID: -4495059714036873919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 650
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60a86c9dfbf4310800000000000000
+      internalID: 1391541751940515495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 650
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d728b17c698770800000000000000
+      internalID: 8613534997999506735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 650
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e2168b052c02b90800000000000000
+      internalID: -7268596146629431804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 650
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4e7177746f4af0800000000000000
+      internalID: -409998576899437943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 650
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e3a0eb78729ea0800000000000000
+      internalID: -5867494891065187943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 650
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf275ec2488dedb0800000000000000
+      internalID: -4760999410549706814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 650
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e635f62fb470dc140800000000000000
+      internalID: 4741454005462324078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 650
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dddb7c15f0c2600800000000000000
+      internalID: 444747307120713116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 650
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525085fb4e8885bd0800000000000000
+      internalID: -2641210665408658139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 650
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90da9c1bf2418e5e0800000000000000
+      internalID: -1880230649348379383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 650
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a8310582420a70800000000000000
+      internalID: 8791662561599203209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 649
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7364995448a1c50800000000000000
+      internalID: 6636762435342972885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 649
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960f9905f9b138bf0800000000000000
+      internalID: -323384377174527895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e07ebb99ca7b2f0800000000000000
+      internalID: -957106619510485494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 615
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a1117838dd2e1c0800000000000000
+      internalID: -4475771522676352403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 615
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d4b1141d386a50800000000000000
+      internalID: 6514524017397125230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 615
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37372928e780f4e00800000000000000
+      internalID: 1031052179140670323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 615
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd2d8cf6f341340800000000000000
+      internalID: 4833558049418566417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 615
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb7320a0ac7b0630800000000000000
+      internalID: 3894343332115217388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 604
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b18962d23e979f0800000000000000
+      internalID: -470094903022970090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 604
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac664edc4977c9e0800000000000000
+      internalID: -1601177771453289300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b1a229b3f9e5220800000000000000
+      internalID: 2476591923304471411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 572
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7f29027f84b8550800000000000000
+      internalID: 6164100741227280302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 572
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a761a42a531dfc0800000000000000
+      internalID: -3471934866581980622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 572
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf767849f14dfe380800000000000000
+      internalID: -8939693503206168580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 572
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad11b355e5a702d0800000000000000
+      internalID: -3312496596537500246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 572
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253bb93881656df20800000000000000
+      internalID: 3447037228085916498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 572
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c20c5b1f1c68c2c0800000000000000
+      internalID: -4411156954150599995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 572
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b24b926c38fa60800000000000000
+      internalID: 7707977156453905032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 551
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536ca2a8844db460800000000000000
+      internalID: 7259033528026555230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 551
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb09b8ce22a9e570800000000000000
+      internalID: 8496500493830917092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 551
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a671fca8b9217b470800000000000000
+      internalID: 8410211288395749226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 551
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5825a7386aa7dbc0800000000000000
+      internalID: -3758347999430498214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_51
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 551
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1951d7a9128fed0800000000000000
+      internalID: -2380115455658061315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_52
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 551
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95164454b135c6920800000000000000
+      internalID: 2984852029631127897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 551
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a7400b89aeabff0800000000000000
+      internalID: -19445306860733916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_54
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 551
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1188a795d1849a0800000000000000
+      internalID: -6248712212831530589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_55
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 551
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cbf7b098e8e7600800000000000000
+      internalID: 467968130547694732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7ec65a65c43e90800000000000000
+      internalID: -7046790456414405540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 535
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419d98cbabcac90e0800000000000000
+      internalID: -2261742994819786476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 535
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391979bbffc2c4dd0800000000000000
+      internalID: -2500574216221912685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 535
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13748ceb9ddc4940800000000000000
+      internalID: 5281840124756521754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 535
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7501a0b362a13a0800000000000000
+      internalID: -6693995861119051823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124d570fbac859a0800000000000000
+      internalID: -6244017961538076135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 498
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e774dff3ee35a0800000000000000
+      internalID: -6539538920974587801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 498
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f163ee7df87290800000000000000
+      internalID: -7892279625544239830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 498
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8d5c503365aec0800000000000000
+      internalID: -3556327271379923452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 498
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e92724ccf4cf22b0800000000000000
+      internalID: -5607046421151274526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 498
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e84165b607eb70800000000000000
+      internalID: 8928112162376311346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be84b39482c31430800000000000000
+      internalID: 3752556789199310516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_68
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 461
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5729d8bfc05fc0900800000000000000
+      internalID: 652165482170651253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 461
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8717f70bd367530800000000000000
+      internalID: 3852334359523719403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 461
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb529166cc6413870800000000000000
+      internalID: 8660781402110371260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 364
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53946600fdf0d3590800000000000000
+      internalID: -7692975138020112075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 364
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af0d8bbb8d93800800000000000000
+      internalID: 592743126747118093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_73
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 364
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ae7b53eaa70bf0800000000000000
+      internalID: -358129751883340427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_74
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 364
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330bb3c563a076e0800000000000000
+      internalID: -1841792590123695303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_75
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 364
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f32c3d397190210800000000000000
+      internalID: 1299595891153452840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33a2f300559d7120800000000000000
+      internalID: 2413249146236609338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 318
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bf6142a458ba2d0800000000000000
+      internalID: -3266370551247602855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 318
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169258c2a741abd80800000000000000
+      internalID: -8234246453728040607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 318
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429c478c779df6830800000000000000
+      internalID: 4066708097026279716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 318
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b28963856bb4610800000000000000
+      internalID: 1606578182077033365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 318
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d446e8561ccfe9070800000000000000
+      internalID: 8115201486130930765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 318
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ff5651150d3ac0800000000000000
+      internalID: -3873934532447046159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5743d4cc0e4ec50800000000000000
+      internalID: 6693722114252633579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_84
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 207
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a218e99165703c10800000000000000
+      internalID: 2031252493998494373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_85
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7088cca1de4023d80800000000000000
+      internalID: -8272544149122807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_86
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 224
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d9d1c9a5b239d0800000000000000
+      internalID: -2795972677937278363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_87
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 224
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c160863e5ce2440800000000000000
+      internalID: 4913081824001268879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 224
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3facf778eb6da0800000000000000
+      internalID: -5950406880601883546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651b848c79d110510800000000000000
+      internalID: 1513523487510671702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_90
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 170
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802045e3c63421310800000000000000
+      internalID: 1374234968482644488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b229f59858b1d830800000000000000
+      internalID: 4094256226869256884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_92
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 170
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7801519861fa782a0800000000000000
+      internalID: -6735222206385287033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 170
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454b35a972544830800000000000000
+      internalID: 4054456246956934478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 170
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d918cbd7841610800000000000000
+      internalID: 1591045946393352123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 170
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc4dcd2358bf1a0800000000000000
+      internalID: -6774674760948986984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_96
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 170
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8958210e98d260850800000000000000
+      internalID: 6342807195391002008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 170
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f86a1cf6afd6f40800000000000000
+      internalID: 5723506059355000678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_98
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 147
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e29214a5d63fce0800000000000000
+      internalID: -1372633227010167247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_99
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 147
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36e57842e02705f0800000000000000
+      internalID: -790627053329848773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_100
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 147
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0689dfdbc9731b550800000000000000
+      internalID: 6174777710443599968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_101
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 147
+        width: 25
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d24b838a0046cd0800000000000000
+      internalID: -2565925165188502140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 147
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a90d9a2c84bd830800000000000000
+      internalID: 4096948286933473849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_103
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 147
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f7fe126ac1b9dc0800000000000000
+      internalID: -3631277174684680407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c03e10321228d0800000000000000
+      internalID: -2872713614434713354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_105
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 157
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15edb1f9d91a9edc0800000000000000
+      internalID: -3609175928009400751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_106
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 157
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b38eb070f6efd70800000000000000
+      internalID: 9078815974880721744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_107
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1338a111c2a2bdf70800000000000000
+      internalID: 9213003831470359345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_108
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 157
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b0a428b0aa6790800000000000000
+      internalID: -7536034313702165767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a745b8e20865110b0800000000000000
+      internalID: -5759727339893468038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586d3dd1b00cd630800000000000000
+      internalID: 3953035336845453393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_111
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 60
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4855abddfbc57b0800000000000000
+      internalID: -5234097707876514627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 80
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd508c2e7e826a30800000000000000
+      internalID: 4207081674481098226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_113
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 80
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9487dbd8f703511f0800000000000000
+      internalID: -1074899611661010871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_114
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 80
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40027cde8d1b6c30800000000000000
+      internalID: 4353605964204736590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_115
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 80
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43ce25d526e43960800000000000000
+      internalID: 7580937122936177487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_116
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 80
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6b0589bc546810800000000000000
+      internalID: 1757631706452159435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_117
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 80
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ca25cc4cd1f9f0800000000000000
+      internalID: -436325466594687323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_118
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 60
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2440f7d5e2204e420800000000000000
+      internalID: 2658252078215791682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_119
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3c9e102a00b550800000000000000
+      internalID: 6174446222193737310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38584ec153f192bc0800000000000000
+      internalID: -3807477696986577533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_121
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9874ac56b3b7420800000000000000
+      internalID: 2628760115872238028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_122
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64280382084d1310800000000000000
+      internalID: 1377336236670723182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_123
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d9209b92eb29e0800000000000000
+      internalID: -1644972081107315709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_124
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8e62b9f84f9b1c0800000000000000
+      internalID: -4487286656077469472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_125
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba6890cac7539d80800000000000000
+      internalID: -8245149964459021640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_126
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d1442a2993afc00800000000000000
+      internalID: 935123174583180668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a891b5c106ee450800000000000000
+      internalID: 6119934618546834059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_128
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 0
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476b5c33a1fe2ed0800000000000000
+      internalID: -2436744664966273216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6e206067a890a0800000000000000
+      internalID: -6874560798808708306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark castle_130
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385ab36c0db4d850800000000000000
+      internalID: 6400948831310731312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dark castle_0: -1312115086618470298
+      dark castle_1: 3992684557681811813
+      dark castle_10: 6770012261060183985
+      dark castle_100: 6174777710443599968
+      dark castle_101: -2565925165188502140
+      dark castle_102: 4096948286933473849
+      dark castle_103: -3631277174684680407
+      dark castle_104: -2872713614434713354
+      dark castle_105: -3609175928009400751
+      dark castle_106: 9078815974880721744
+      dark castle_107: 9213003831470359345
+      dark castle_108: -7536034313702165767
+      dark castle_109: -5759727339893468038
+      dark castle_11: -2248280226366197838
+      dark castle_110: 3953035336845453393
+      dark castle_111: -5234097707876514627
+      dark castle_112: 4207081674481098226
+      dark castle_113: -1074899611661010871
+      dark castle_114: 4353605964204736590
+      dark castle_115: 7580937122936177487
+      dark castle_116: 1757631706452159435
+      dark castle_117: -436325466594687323
+      dark castle_118: 2658252078215791682
+      dark castle_119: 6174446222193737310
+      dark castle_12: -7039220060971617894
+      dark castle_120: -3807477696986577533
+      dark castle_121: 2628760115872238028
+      dark castle_122: 1377336236670723182
+      dark castle_123: -1644972081107315709
+      dark castle_124: -4487286656077469472
+      dark castle_125: -8245149964459021640
+      dark castle_126: 935123174583180668
+      dark castle_127: 6119934618546834059
+      dark castle_128: -2436744664966273216
+      dark castle_129: -6874560798808708306
+      dark castle_13: 3034948261027491308
+      dark castle_130: 6400948831310731312
+      dark castle_14: -6666787441058920132
+      dark castle_15: -1343131288832117931
+      dark castle_16: 4296510397389764393
+      dark castle_17: -4495059714036873919
+      dark castle_18: 1391541751940515495
+      dark castle_19: 8613534997999506735
+      dark castle_2: -7337067905629305463
+      dark castle_20: -7268596146629431804
+      dark castle_21: -409998576899437943
+      dark castle_22: -5867494891065187943
+      dark castle_23: -4760999410549706814
+      dark castle_24: 4741454005462324078
+      dark castle_25: 444747307120713116
+      dark castle_26: -2641210665408658139
+      dark castle_27: -1880230649348379383
+      dark castle_28: 8791662561599203209
+      dark castle_29: 6636762435342972885
+      dark castle_3: -1833046295972276178
+      dark castle_30: -323384377174527895
+      dark castle_31: -957106619510485494
+      dark castle_32: -4475771522676352403
+      dark castle_33: 6514524017397125230
+      dark castle_34: 1031052179140670323
+      dark castle_35: 4833558049418566417
+      dark castle_36: 3894343332115217388
+      dark castle_37: -470094903022970090
+      dark castle_38: -1601177771453289300
+      dark castle_39: 2476591923304471411
+      dark castle_4: -6702900421891610886
+      dark castle_40: 6164100741227280302
+      dark castle_41: -3471934866581980622
+      dark castle_42: -8939693503206168580
+      dark castle_43: -3312496596537500246
+      dark castle_44: 3447037228085916498
+      dark castle_45: -4411156954150599995
+      dark castle_46: 7707977156453905032
+      dark castle_47: 7259033528026555230
+      dark castle_48: 8496500493830917092
+      dark castle_49: 8410211288395749226
+      dark castle_5: -8564738675135121974
+      dark castle_50: -3758347999430498214
+      dark castle_51: -2380115455658061315
+      dark castle_52: 2984852029631127897
+      dark castle_53: -19445306860733916
+      dark castle_54: -6248712212831530589
+      dark castle_55: 467968130547694732
+      dark castle_56: -7046790456414405540
+      dark castle_57: -2261742994819786476
+      dark castle_58: -2500574216221912685
+      dark castle_59: 5281840124756521754
+      dark castle_6: 8501141453157096001
+      dark castle_60: -6693995861119051823
+      dark castle_61: -6244017961538076135
+      dark castle_62: -6539538920974587801
+      dark castle_63: -7892279625544239830
+      dark castle_64: -3556327271379923452
+      dark castle_65: -5607046421151274526
+      dark castle_66: 8928112162376311346
+      dark castle_67: 3752556789199310516
+      dark castle_68: 652165482170651253
+      dark castle_69: 3852334359523719403
+      dark castle_7: -7254826767409093558
+      dark castle_70: 8660781402110371260
+      dark castle_71: -7692975138020112075
+      dark castle_72: 592743126747118093
+      dark castle_73: -358129751883340427
+      dark castle_74: -1841792590123695303
+      dark castle_75: 1299595891153452840
+      dark castle_76: 2413249146236609338
+      dark castle_77: -3266370551247602855
+      dark castle_78: -8234246453728040607
+      dark castle_79: 4066708097026279716
+      dark castle_8: -1970344905465990792
+      dark castle_80: 1606578182077033365
+      dark castle_81: 8115201486130930765
+      dark castle_82: -3873934532447046159
+      dark castle_83: 6693722114252633579
+      dark castle_84: 2031252493998494373
+      dark castle_85: -8272544149122807801
+      dark castle_86: -2795972677937278363
+      dark castle_87: 4913081824001268879
+      dark castle_88: -5950406880601883546
+      dark castle_89: 1513523487510671702
+      dark castle_9: 970691771166401541
+      dark castle_90: 1374234968482644488
+      dark castle_91: 4094256226869256884
+      dark castle_92: -6735222206385287033
+      dark castle_93: 4054456246956934478
+      dark castle_94: 1591045946393352123
+      dark castle_95: -6774674760948986984
+      dark castle_96: 6342807195391002008
+      dark castle_97: 5723506059355000678
+      dark castle_98: -1372633227010167247
+      dark castle_99: -790627053329848773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

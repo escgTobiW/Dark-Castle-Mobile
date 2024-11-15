@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 82a2faf85ff0fe64a93ad57e2c2ebd77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -722288824957289858
+    second: Sega Genesis 32X - Dark Castle - Great Hall_0
+  - first:
+      213: -6595497257722855940
+    second: Sega Genesis 32X - Dark Castle - Great Hall_1
+  - first:
+      213: 6824065165271234034
+    second: Sega Genesis 32X - Dark Castle - Great Hall_2
+  - first:
+      213: -2931849283698076409
+    second: Sega Genesis 32X - Dark Castle - Great Hall_3
+  - first:
+      213: 2281194906635300099
+    second: Sega Genesis 32X - Dark Castle - Great Hall_4
+  - first:
+      213: 3622341369585021716
+    second: Sega Genesis 32X - Dark Castle - Great Hall_5
+  - first:
+      213: 7018188815166859359
+    second: Sega Genesis 32X - Dark Castle - Great Hall_6
+  - first:
+      213: -1387998447775998223
+    second: Sega Genesis 32X - Dark Castle - Great Hall_7
+  - first:
+      213: 2252149411394104802
+    second: Sega Genesis 32X - Dark Castle - Great Hall_8
+  - first:
+      213: -3672587237424683241
+    second: Sega Genesis 32X - Dark Castle - Great Hall_9
+  - first:
+      213: 7490283448073657898
+    second: Sega Genesis 32X - Dark Castle - Great Hall_10
+  - first:
+      213: 2174638456409390862
+    second: Sega Genesis 32X - Dark Castle - Great Hall_11
+  - first:
+      213: 6673727358047116334
+    second: Sega Genesis 32X - Dark Castle - Great Hall_12
+  - first:
+      213: -1654780268774850219
+    second: Sega Genesis 32X - Dark Castle - Great Hall_13
+  - first:
+      213: 6591176313662830494
+    second: Sega Genesis 32X - Dark Castle - Great Hall_14
+  - first:
+      213: 3297301622248955264
+    second: Sega Genesis 32X - Dark Castle - Great Hall_15
+  - first:
+      213: -741602068994647790
+    second: Sega Genesis 32X - Dark Castle - Great Hall_16
+  - first:
+      213: -9202505908250148777
+    second: Sega Genesis 32X - Dark Castle - Great Hall_17
+  - first:
+      213: -3648194100261348720
+    second: Sega Genesis 32X - Dark Castle - Great Hall_18
+  - first:
+      213: 5062884800487506737
+    second: Sega Genesis 32X - Dark Castle - Great Hall_19
+  - first:
+      213: -899176772770010454
+    second: Sega Genesis 32X - Dark Castle - Great Hall_20
+  - first:
+      213: -8925221874363149784
+    second: Sega Genesis 32X - Dark Castle - Great Hall_21
+  - first:
+      213: 6713746571148840080
+    second: Sega Genesis 32X - Dark Castle - Great Hall_22
+  - first:
+      213: -8192393245268978087
+    second: Sega Genesis 32X - Dark Castle - Great Hall_23
+  - first:
+      213: -2170924759739883840
+    second: Sega Genesis 32X - Dark Castle - Great Hall_24
+  - first:
+      213: 8242779408254916444
+    second: Sega Genesis 32X - Dark Castle - Great Hall_25
+  - first:
+      213: 8836350988809924988
+    second: Sega Genesis 32X - Dark Castle - Great Hall_26
+  - first:
+      213: -1370423400927485287
+    second: Sega Genesis 32X - Dark Castle - Great Hall_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7abf2bf32ae9f5f0800000000000000
+      internalID: -722288824957289858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdbd5440361874a0800000000000000
+      internalID: -6595497257722855940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5fb14cc13f3be50800000000000000
+      internalID: 6824065165271234034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705513e2c9aff47d0800000000000000
+      internalID: -2931849283698076409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d6d696eae68af10800000000000000
+      internalID: 2281194906635300099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413315d9844254230800000000000000
+      internalID: 3622341369585021716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58e3ae1b8d956160800000000000000
+      internalID: 7018188815166859359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe948304c6dcbce0800000000000000
+      internalID: -1387998447775998223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed204f05fd314f10800000000000000
+      internalID: 2252149411394104802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172ba2ad59580dc0800000000000000
+      internalID: -3672587237424683241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e1b6d5c15d2f760800000000000000
+      internalID: 7490283448073657898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7f25872edd2e10800000000000000
+      internalID: 2174638456409390862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c54385ca7dd9c50800000000000000
+      internalID: 6673727358047116334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551895aec1a0909e0800000000000000
+      internalID: -1654780268774850219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9777db8fef887b50800000000000000
+      internalID: 6591176313662830494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dd7770b5e52cd20800000000000000
+      internalID: 3297301622248955264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 68
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21911e0f8dc45b5f0800000000000000
+      internalID: -741602068994647790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750015722a12a4080800000000000000
+      internalID: -9202505908250148777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a1f367bc20f5dc0800000000000000
+      internalID: -3648194100261348720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13348c7d6eaf24640800000000000000
+      internalID: 5062884800487506737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaae2cc3d7b7583f0800000000000000
+      internalID: -899176772770010454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d90d3efd332480800000000000000
+      internalID: -8925221874363149784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 26
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc25d7fe40c2d50800000000000000
+      internalID: 6713746571148840080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 26
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956de63afb5ce4e80800000000000000
+      internalID: -8192393245268978087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9a9dde635fd1e0800000000000000
+      internalID: -2170924759739883840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5750fe133c346270800000000000000
+      internalID: 8242779408254916444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ffa6486601aa70800000000000000
+      internalID: 8836350988809924988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Great Hall_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992a5db7d274bfce0800000000000000
+      internalID: -1370423400927485287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sega Genesis 32X - Dark Castle - Great Hall_0: -722288824957289858
+      Sega Genesis 32X - Dark Castle - Great Hall_1: -6595497257722855940
+      Sega Genesis 32X - Dark Castle - Great Hall_10: 7490283448073657898
+      Sega Genesis 32X - Dark Castle - Great Hall_11: 2174638456409390862
+      Sega Genesis 32X - Dark Castle - Great Hall_12: 6673727358047116334
+      Sega Genesis 32X - Dark Castle - Great Hall_13: -1654780268774850219
+      Sega Genesis 32X - Dark Castle - Great Hall_14: 6591176313662830494
+      Sega Genesis 32X - Dark Castle - Great Hall_15: 3297301622248955264
+      Sega Genesis 32X - Dark Castle - Great Hall_16: -741602068994647790
+      Sega Genesis 32X - Dark Castle - Great Hall_17: -9202505908250148777
+      Sega Genesis 32X - Dark Castle - Great Hall_18: -3648194100261348720
+      Sega Genesis 32X - Dark Castle - Great Hall_19: 5062884800487506737
+      Sega Genesis 32X - Dark Castle - Great Hall_2: 6824065165271234034
+      Sega Genesis 32X - Dark Castle - Great Hall_20: -899176772770010454
+      Sega Genesis 32X - Dark Castle - Great Hall_21: -8925221874363149784
+      Sega Genesis 32X - Dark Castle - Great Hall_22: 6713746571148840080
+      Sega Genesis 32X - Dark Castle - Great Hall_23: -8192393245268978087
+      Sega Genesis 32X - Dark Castle - Great Hall_24: -2170924759739883840
+      Sega Genesis 32X - Dark Castle - Great Hall_25: 8242779408254916444
+      Sega Genesis 32X - Dark Castle - Great Hall_26: 8836350988809924988
+      Sega Genesis 32X - Dark Castle - Great Hall_27: -1370423400927485287
+      Sega Genesis 32X - Dark Castle - Great Hall_3: -2931849283698076409
+      Sega Genesis 32X - Dark Castle - Great Hall_4: 2281194906635300099
+      Sega Genesis 32X - Dark Castle - Great Hall_5: 3622341369585021716
+      Sega Genesis 32X - Dark Castle - Great Hall_6: 7018188815166859359
+      Sega Genesis 32X - Dark Castle - Great Hall_7: -1387998447775998223
+      Sega Genesis 32X - Dark Castle - Great Hall_8: 2252149411394104802
+      Sega Genesis 32X - Dark Castle - Great Hall_9: -3672587237424683241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: 823fb1a9f9c5b654ba5c156eac6efc05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7337817381942659011
+    second: Sega Genesis 32X - Dark Castle - Trouble_0
+  - first:
+      213: -5319935839445743670
+    second: Sega Genesis 32X - Dark Castle - Trouble_1
+  - first:
+      213: -898541870880827562
+    second: Sega Genesis 32X - Dark Castle - Trouble_2
+  - first:
+      213: 7187721085054540411
+    second: Sega Genesis 32X - Dark Castle - Trouble_3
+  - first:
+      213: 6019618425101319811
+    second: Sega Genesis 32X - Dark Castle - Trouble_4
+  - first:
+      213: -2005641446579135896
+    second: Sega Genesis 32X - Dark Castle - Trouble_5
+  - first:
+      213: 5401906200841542814
+    second: Sega Genesis 32X - Dark Castle - Trouble_6
+  - first:
+      213: -4325376655047136173
+    second: Sega Genesis 32X - Dark Castle - Trouble_7
+  - first:
+      213: 4827834972675241597
+    second: Sega Genesis 32X - Dark Castle - Trouble_8
+  - first:
+      213: -5573085344746112050
+    second: Sega Genesis 32X - Dark Castle - Trouble_9
+  - first:
+      213: -8577363898232906002
+    second: Sega Genesis 32X - Dark Castle - Trouble_10
+  - first:
+      213: -2949022106184284351
+    second: Sega Genesis 32X - Dark Castle - Trouble_11
+  - first:
+      213: 5120217416719400445
+    second: Sega Genesis 32X - Dark Castle - Trouble_12
+  - first:
+      213: -8983620694283641818
+    second: Sega Genesis 32X - Dark Castle - Trouble_13
+  - first:
+      213: -3226705154327294949
+    second: Sega Genesis 32X - Dark Castle - Trouble_14
+  - first:
+      213: -1051457016498444916
+    second: Sega Genesis 32X - Dark Castle - Trouble_15
+  - first:
+      213: 4123310182989463492
+    second: Sega Genesis 32X - Dark Castle - Trouble_16
+  - first:
+      213: -8670262744158126546
+    second: Sega Genesis 32X - Dark Castle - Trouble_17
+  - first:
+      213: -4394931677883940605
+    second: Sega Genesis 32X - Dark Castle - Trouble_18
+  - first:
+      213: 4586273949849797226
+    second: Sega Genesis 32X - Dark Castle - Trouble_19
+  - first:
+      213: 3246884568993347273
+    second: Sega Genesis 32X - Dark Castle - Trouble_20
+  - first:
+      213: 2153259491690631358
+    second: Sega Genesis 32X - Dark Castle - Trouble_21
+  - first:
+      213: 4477611934777254099
+    second: Sega Genesis 32X - Dark Castle - Trouble_22
+  - first:
+      213: -2986352502883617792
+    second: Sega Genesis 32X - Dark Castle - Trouble_23
+  - first:
+      213: -6203815976212836185
+    second: Sega Genesis 32X - Dark Castle - Trouble_24
+  - first:
+      213: -6484339200570838216
+    second: Sega Genesis 32X - Dark Castle - Trouble_25
+  - first:
+      213: -1551057915297376103
+    second: Sega Genesis 32X - Dark Castle - Trouble_26
+  - first:
+      213: -2718972201623744845
+    second: Sega Genesis 32X - Dark Castle - Trouble_27
+  - first:
+      213: 1457449139338844776
+    second: Sega Genesis 32X - Dark Castle - Trouble_28
+  - first:
+      213: -4244167954736990489
+    second: Sega Genesis 32X - Dark Castle - Trouble_29
+  - first:
+      213: 3254927485434656078
+    second: Sega Genesis 32X - Dark Castle - Trouble_30
+  - first:
+      213: 1316059508287228333
+    second: Sega Genesis 32X - Dark Castle - Trouble_31
+  - first:
+      213: -6460898641488075715
+    second: Sega Genesis 32X - Dark Castle - Trouble_32
+  - first:
+      213: 2603353001478425502
+    second: Sega Genesis 32X - Dark Castle - Trouble_33
+  - first:
+      213: 637550386620152033
+    second: Sega Genesis 32X - Dark Castle - Trouble_34
+  - first:
+      213: 3108661450217018187
+    second: Sega Genesis 32X - Dark Castle - Trouble_35
+  - first:
+      213: -2284669458406179477
+    second: Sega Genesis 32X - Dark Castle - Trouble_36
+  - first:
+      213: 929557308443770643
+    second: Sega Genesis 32X - Dark Castle - Trouble_37
+  - first:
+      213: -2641503300601623362
+    second: Sega Genesis 32X - Dark Castle - Trouble_38
+  - first:
+      213: 4671393678771115116
+    second: Sega Genesis 32X - Dark Castle - Trouble_39
+  - first:
+      213: -8537054662171508471
+    second: Sega Genesis 32X - Dark Castle - Trouble_40
+  - first:
+      213: -5855925236308113250
+    second: Sega Genesis 32X - Dark Castle - Trouble_41
+  - first:
+      213: -8053579376575982317
+    second: Sega Genesis 32X - Dark Castle - Trouble_42
+  - first:
+      213: -7799946053804026067
+    second: Sega Genesis 32X - Dark Castle - Trouble_43
+  - first:
+      213: -3646269521323542610
+    second: Sega Genesis 32X - Dark Castle - Trouble_44
+  - first:
+      213: -3993971835141150952
+    second: Sega Genesis 32X - Dark Castle - Trouble_45
+  - first:
+      213: 9169218424205548428
+    second: Sega Genesis 32X - Dark Castle - Trouble_46
+  - first:
+      213: -3044156362004718938
+    second: Sega Genesis 32X - Dark Castle - Trouble_47
+  - first:
+      213: 430161572605158945
+    second: Sega Genesis 32X - Dark Castle - Trouble_48
+  - first:
+      213: -1459123432198335780
+    second: Sega Genesis 32X - Dark Castle - Trouble_49
+  - first:
+      213: 2076538586778199903
+    second: Sega Genesis 32X - Dark Castle - Trouble_50
+  - first:
+      213: 1752582390036946738
+    second: Sega Genesis 32X - Dark Castle - Trouble_51
+  - first:
+      213: 9209190417877277036
+    second: Sega Genesis 32X - Dark Castle - Trouble_52
+  - first:
+      213: 6233549288968039042
+    second: Sega Genesis 32X - Dark Castle - Trouble_53
+  - first:
+      213: 206620733388106808
+    second: Sega Genesis 32X - Dark Castle - Trouble_54
+  - first:
+      213: 5012770355624477897
+    second: Sega Genesis 32X - Dark Castle - Trouble_55
+  - first:
+      213: -3554762511899120835
+    second: Sega Genesis 32X - Dark Castle - Trouble_56
+  - first:
+      213: 7158443298556541032
+    second: Sega Genesis 32X - Dark Castle - Trouble_57
+  - first:
+      213: 4524528778787202773
+    second: Sega Genesis 32X - Dark Castle - Trouble_58
+  - first:
+      213: 142163431753918316
+    second: Sega Genesis 32X - Dark Castle - Trouble_59
+  - first:
+      213: 1368123210836490969
+    second: Sega Genesis 32X - Dark Castle - Trouble_60
+  - first:
+      213: -8015803309935733048
+    second: Sega Genesis 32X - Dark Castle - Trouble_61
+  - first:
+      213: 7214148201209407084
+    second: Sega Genesis 32X - Dark Castle - Trouble_62
+  - first:
+      213: 8081569892445030601
+    second: Sega Genesis 32X - Dark Castle - Trouble_63
+  - first:
+      213: -8888326098660715677
+    second: Sega Genesis 32X - Dark Castle - Trouble_64
+  - first:
+      213: 2191529389888360364
+    second: Sega Genesis 32X - Dark Castle - Trouble_65
+  - first:
+      213: 405218239864280231
+    second: Sega Genesis 32X - Dark Castle - Trouble_66
+  - first:
+      213: -2844704209459367404
+    second: Sega Genesis 32X - Dark Castle - Trouble_67
+  - first:
+      213: -5000334308332786404
+    second: Sega Genesis 32X - Dark Castle - Trouble_68
+  - first:
+      213: -3136971339560263086
+    second: Sega Genesis 32X - Dark Castle - Trouble_69
+  - first:
+      213: 3703629901629209210
+    second: Sega Genesis 32X - Dark Castle - Trouble_70
+  - first:
+      213: 3622735900327656793
+    second: Sega Genesis 32X - Dark Castle - Trouble_71
+  - first:
+      213: -6781079979706323328
+    second: Sega Genesis 32X - Dark Castle - Trouble_72
+  - first:
+      213: 1574032547339513182
+    second: Sega Genesis 32X - Dark Castle - Trouble_73
+  - first:
+      213: -1574071518496052764
+    second: Sega Genesis 32X - Dark Castle - Trouble_74
+  - first:
+      213: 5300997452241227557
+    second: Sega Genesis 32X - Dark Castle - Trouble_75
+  - first:
+      213: 7943455174721405796
+    second: Sega Genesis 32X - Dark Castle - Trouble_76
+  - first:
+      213: 6335677762649812856
+    second: Sega Genesis 32X - Dark Castle - Trouble_77
+  - first:
+      213: -5298673411555544068
+    second: Sega Genesis 32X - Dark Castle - Trouble_78
+  - first:
+      213: -2941617608593102934
+    second: Sega Genesis 32X - Dark Castle - Trouble_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7016d080a25d560800000000000000
+      internalID: 7337817381942659011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 270
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac787fd4a8acb26b0800000000000000
+      internalID: -5319935839445743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 270
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657555addecb783f0800000000000000
+      internalID: -898541870880827562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ad243ae3aefb360800000000000000
+      internalID: 7187721085054540411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 249
+        width: 210
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e7f87701bf98350800000000000000
+      internalID: 6019618425101319811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 241
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a99dd0bb78a24e0800000000000000
+      internalID: -2005641446579135896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 241
+        width: 210
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cd323b11d67fa40800000000000000
+      internalID: 5401906200841542814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 249
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce52c59dc29f3c0800000000000000
+      internalID: -4325376655047136173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 249
+        width: 202
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f384245aeff240800000000000000
+      internalID: 4827834972675241597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf87b086c68a2b0800000000000000
+      internalID: -5573085344746112050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5198baf417f880800000000000000
+      internalID: -8577363898232906002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1478c1ed408f217d0800000000000000
+      internalID: -2949022106184284351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf358cc9aae0740800000000000000
+      internalID: 5120217416719400445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c10686394c35380800000000000000
+      internalID: -8983620694283641818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c466902c07833d0800000000000000
+      internalID: -3226705154327294949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a4031a697861f0800000000000000
+      internalID: -1051457016498444916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf76d3e3c0f83930800000000000000
+      internalID: 4123310182989463492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eb621a8f90da780800000000000000
+      internalID: -8670262744158126546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301cd9f9ce01203c0800000000000000
+      internalID: -4394931677883940605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62cc67bbd7b5af30800000000000000
+      internalID: 4586273949849797226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6bb8110504f0d20800000000000000
+      internalID: 3246884568993347273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb05577691ae1ed10800000000000000
+      internalID: 2153259491690631358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a27ec45ca32e30800000000000000
+      internalID: 4477611934777254099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004f58398385e86d0800000000000000
+      internalID: -2986352502883617792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d0f52d3e97e9a0800000000000000
+      internalID: -6203815976212836185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833b5d24adff206a0800000000000000
+      internalID: -6484339200570838216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99854ac3b09897ae0800000000000000
+      internalID: -1551057915297376103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0e083035444ad0800000000000000
+      internalID: -2718972201623744845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a9d743546e93410800000000000000
+      internalID: 1457449139338844776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63ec25bbfa915c0800000000000000
+      internalID: -4244167954736990489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45fcfa7d43db2d20800000000000000
+      internalID: 3254927485434656078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da94cb66625934210800000000000000
+      internalID: 1316059508287228333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ac48bae64656a0800000000000000
+      internalID: -6460898641488075715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b811ef2c7f02420800000000000000
+      internalID: 2603353001478425502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e838e0e2b809d800800000000000000
+      internalID: 637550386620152033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_35
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d22b5e1f242b20800000000000000
+      internalID: 3108661450217018187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6df3867b393b40e0800000000000000
+      internalID: -2284669458406179477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb820727376ec00800000000000000
+      internalID: 929557308443770643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc4e9e4ebe775bd0800000000000000
+      internalID: -2641503300601623362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_39
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64582dfccf14d040800000000000000
+      internalID: 4671393678771115116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901cc29140a468980800000000000000
+      internalID: -8537054662171508471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_41
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e980c9a06039bbea0800000000000000
+      internalID: -5855925236308113250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315d6c80a30fb3090800000000000000
+      internalID: -8053579376575982317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271dc3d36601c390800000000000000
+      internalID: -7799946053804026067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea73d2a6039d56dc0800000000000000
+      internalID: -3646269521323542610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8172f73e6cf8298c0800000000000000
+      internalID: -3993971835141150952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_46
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1db2839b9f3f70800000000000000
+      internalID: 9169218424205548428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_47
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa96f9daebf0c5d0800000000000000
+      internalID: -3044156362004718938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_48
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1266723dbad38f500800000000000000
+      internalID: 430161572605158945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_49
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29e5c18f620cbe0800000000000000
+      internalID: -1459123432198335780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_50
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f576e4bb7d851dc10800000000000000
+      internalID: 2076538586778199903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fd1cde56c625810800000000000000
+      internalID: 1752582390036946738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69918684ed9dcf70800000000000000
+      internalID: 9209190417877277036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 192
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a24d23d04028650800000000000000
+      internalID: 6233549288968039042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_54
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c24d856701ed200800000000000000
+      internalID: 206620733388106808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 205
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c40b936410f09540800000000000000
+      internalID: 5012770355624477897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 205
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba0615452faaec0800000000000000
+      internalID: -3554762511899120835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_57
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 157
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868fc33c046e75360800000000000000
+      internalID: 7158443298556541032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 146
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a4abc3fa5ace30800000000000000
+      internalID: 4524528778787202773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 136
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c672eb153e019f100800000000000000
+      internalID: 142163431753918316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_60
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 140
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da30e6cfcc8cf210800000000000000
+      internalID: 1368123210836490969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 146
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c651e1fb5522c090800000000000000
+      internalID: -8015803309935733048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 157
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c662c1a119dcd1460800000000000000
+      internalID: 7214148201209407084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 92
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88daacff0872070800000000000000
+      internalID: 8081569892445030601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 92
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3639e71718256a480800000000000000
+      internalID: -8888326098660715677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 92
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafcf1f6e50e96e10800000000000000
+      internalID: 2191529389888360364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 117
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a49e9b97df9f9500800000000000000
+      internalID: 405218239864280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_67
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 117
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412bd18e7949588d0800000000000000
+      internalID: -2844704209459367404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 96
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d20a1807e3b9ab0800000000000000
+      internalID: -5000334308332786404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_69
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 96
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252ede2ef2d3774d0800000000000000
+      internalID: -3136971339560263086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_70
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 96
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abf1ad5cfe56330800000000000000
+      internalID: 3703629901629209210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_71
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 79
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95db5167b1b864230800000000000000
+      internalID: 3622735900327656793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_72
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 79
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e6718afa3c4e1a0800000000000000
+      internalID: -6781079979706323328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2311234618d510800000000000000
+      internalID: 1574032547339513182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_74
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9abf03b46c72ae0800000000000000
+      internalID: -1574071518496052764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_75
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 44
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fc610d81de09940800000000000000
+      internalID: 5300997452241227557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_76
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 44
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463028a2562dc3e60800000000000000
+      internalID: 7943455174721405796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_77
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f65167b59dce750800000000000000
+      internalID: 6335677762649812856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_78
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3bc631b945776b0800000000000000
+      internalID: -5298673411555544068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Dark Castle - Trouble_79
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa726cece564d27d0800000000000000
+      internalID: -2941617608593102934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sega Genesis 32X - Dark Castle - Trouble_0: 7337817381942659011
+      Sega Genesis 32X - Dark Castle - Trouble_1: -5319935839445743670
+      Sega Genesis 32X - Dark Castle - Trouble_10: -8577363898232906002
+      Sega Genesis 32X - Dark Castle - Trouble_11: -2949022106184284351
+      Sega Genesis 32X - Dark Castle - Trouble_12: 5120217416719400445
+      Sega Genesis 32X - Dark Castle - Trouble_13: -8983620694283641818
+      Sega Genesis 32X - Dark Castle - Trouble_14: -3226705154327294949
+      Sega Genesis 32X - Dark Castle - Trouble_15: -1051457016498444916
+      Sega Genesis 32X - Dark Castle - Trouble_16: 4123310182989463492
+      Sega Genesis 32X - Dark Castle - Trouble_17: -8670262744158126546
+      Sega Genesis 32X - Dark Castle - Trouble_18: -4394931677883940605
+      Sega Genesis 32X - Dark Castle - Trouble_19: 4586273949849797226
+      Sega Genesis 32X - Dark Castle - Trouble_2: -898541870880827562
+      Sega Genesis 32X - Dark Castle - Trouble_20: 3246884568993347273
+      Sega Genesis 32X - Dark Castle - Trouble_21: 2153259491690631358
+      Sega Genesis 32X - Dark Castle - Trouble_22: 4477611934777254099
+      Sega Genesis 32X - Dark Castle - Trouble_23: -2986352502883617792
+      Sega Genesis 32X - Dark Castle - Trouble_24: -6203815976212836185
+      Sega Genesis 32X - Dark Castle - Trouble_25: -6484339200570838216
+      Sega Genesis 32X - Dark Castle - Trouble_26: -1551057915297376103
+      Sega Genesis 32X - Dark Castle - Trouble_27: -2718972201623744845
+      Sega Genesis 32X - Dark Castle - Trouble_28: 1457449139338844776
+      Sega Genesis 32X - Dark Castle - Trouble_29: -4244167954736990489
+      Sega Genesis 32X - Dark Castle - Trouble_3: 7187721085054540411
+      Sega Genesis 32X - Dark Castle - Trouble_30: 3254927485434656078
+      Sega Genesis 32X - Dark Castle - Trouble_31: 1316059508287228333
+      Sega Genesis 32X - Dark Castle - Trouble_32: -6460898641488075715
+      Sega Genesis 32X - Dark Castle - Trouble_33: 2603353001478425502
+      Sega Genesis 32X - Dark Castle - Trouble_34: 637550386620152033
+      Sega Genesis 32X - Dark Castle - Trouble_35: 3108661450217018187
+      Sega Genesis 32X - Dark Castle - Trouble_36: -2284669458406179477
+      Sega Genesis 32X - Dark Castle - Trouble_37: 929557308443770643
+      Sega Genesis 32X - Dark Castle - Trouble_38: -2641503300601623362
+      Sega Genesis 32X - Dark Castle - Trouble_39: 4671393678771115116
+      Sega Genesis 32X - Dark Castle - Trouble_4: 6019618425101319811
+      Sega Genesis 32X - Dark Castle - Trouble_40: -8537054662171508471
+      Sega Genesis 32X - Dark Castle - Trouble_41: -5855925236308113250
+      Sega Genesis 32X - Dark Castle - Trouble_42: -8053579376575982317
+      Sega Genesis 32X - Dark Castle - Trouble_43: -7799946053804026067
+      Sega Genesis 32X - Dark Castle - Trouble_44: -3646269521323542610
+      Sega Genesis 32X - Dark Castle - Trouble_45: -3993971835141150952
+      Sega Genesis 32X - Dark Castle - Trouble_46: 9169218424205548428
+      Sega Genesis 32X - Dark Castle - Trouble_47: -3044156362004718938
+      Sega Genesis 32X - Dark Castle - Trouble_48: 430161572605158945
+      Sega Genesis 32X - Dark Castle - Trouble_49: -1459123432198335780
+      Sega Genesis 32X - Dark Castle - Trouble_5: -2005641446579135896
+      Sega Genesis 32X - Dark Castle - Trouble_50: 2076538586778199903
+      Sega Genesis 32X - Dark Castle - Trouble_51: 1752582390036946738
+      Sega Genesis 32X - Dark Castle - Trouble_52: 9209190417877277036
+      Sega Genesis 32X - Dark Castle - Trouble_53: 6233549288968039042
+      Sega Genesis 32X - Dark Castle - Trouble_54: 206620733388106808
+      Sega Genesis 32X - Dark Castle - Trouble_55: 5012770355624477897
+      Sega Genesis 32X - Dark Castle - Trouble_56: -3554762511899120835
+      Sega Genesis 32X - Dark Castle - Trouble_57: 7158443298556541032
+      Sega Genesis 32X - Dark Castle - Trouble_58: 4524528778787202773
+      Sega Genesis 32X - Dark Castle - Trouble_59: 142163431753918316
+      Sega Genesis 32X - Dark Castle - Trouble_6: 5401906200841542814
+      Sega Genesis 32X - Dark Castle - Trouble_60: 1368123210836490969
+      Sega Genesis 32X - Dark Castle - Trouble_61: -8015803309935733048
+      Sega Genesis 32X - Dark Castle - Trouble_62: 7214148201209407084
+      Sega Genesis 32X - Dark Castle - Trouble_63: 8081569892445030601
+      Sega Genesis 32X - Dark Castle - Trouble_64: -8888326098660715677
+      Sega Genesis 32X - Dark Castle - Trouble_65: 2191529389888360364
+      Sega Genesis 32X - Dark Castle - Trouble_66: 405218239864280231
+      Sega Genesis 32X - Dark Castle - Trouble_67: -2844704209459367404
+      Sega Genesis 32X - Dark Castle - Trouble_68: -5000334308332786404
+      Sega Genesis 32X - Dark Castle - Trouble_69: -3136971339560263086
+      Sega Genesis 32X - Dark Castle - Trouble_7: -4325376655047136173
+      Sega Genesis 32X - Dark Castle - Trouble_70: 3703629901629209210
+      Sega Genesis 32X - Dark Castle - Trouble_71: 3622735900327656793
+      Sega Genesis 32X - Dark Castle - Trouble_72: -6781079979706323328
+      Sega Genesis 32X - Dark Castle - Trouble_73: 1574032547339513182
+      Sega Genesis 32X - Dark Castle - Trouble_74: -1574071518496052764
+      Sega Genesis 32X - Dark Castle - Trouble_75: 5300997452241227557
+      Sega Genesis 32X - Dark Castle - Trouble_76: 7943455174721405796
+      Sega Genesis 32X - Dark Castle - Trouble_77: 6335677762649812856
+      Sega Genesis 32X - Dark Castle - Trouble_78: -5298673411555544068
+      Sega Genesis 32X - Dark Castle - Trouble_79: -2941617608593102934
+      Sega Genesis 32X - Dark Castle - Trouble_8: 4827834972675241597
+      Sega Genesis 32X - Dark Castle - Trouble_9: -5573085344746112050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
