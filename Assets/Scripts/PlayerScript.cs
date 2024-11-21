@@ -22,7 +22,7 @@ public class PlayerScript : MonoBehaviour
     bool dead = false;
     float wait = 1;
 
-
+   
 
     private SpriteRenderer spriteRenderer;
 
@@ -63,7 +63,7 @@ public class PlayerScript : MonoBehaviour
             //-----Controls--------
 
             //---JUMP---         (was UP)
-            if (Input.GetKeyDown("space") && (Helping.GroundCheck(0, 0)) == true)
+            if (((Input.GetMouseButtonDown(0) == true) || (Input.touchCount > 0)) && (Helping.GroundCheck(0, -1)) == true)
             {
                 //anim.SetBool("jump", true);
                 rb.AddForce(new Vector2(0, jump), ForceMode2D.Impulse);
@@ -81,35 +81,12 @@ public class PlayerScript : MonoBehaviour
             }
             */
             
-            if (Input.GetKey("a") || Input.GetKey("d") == true)
-            {
-
-
-                if (Helping.GroundCheck(0, 0) == true)
-                {
-                    anim.SetBool("run", true);
-                }
-
-                //---LEFT---
-                if (Input.GetKey("a") == true)
-                {
-                    transform.position = new Vector2(transform.position.x - (speed * Time.deltaTime), transform.position.y);
-                    spriteRenderer.flipX = true;
-                }
-
-
-
-
-                //---RIGHT--
-                if (Input.GetKey("d") == true)
-                {
-                    transform.position = new Vector2(transform.position.x + (speed * Time.deltaTime), transform.position.y);
-                    spriteRenderer.flipX = false;
-                }
+          
+                
                 
 
 
-            }
+            
          
             else
             {
@@ -141,7 +118,7 @@ public class PlayerScript : MonoBehaviour
 
         if (wait > 5)
         {
-            SceneManager.LoadScene("Cutscene");
+            SceneManager.LoadScene("Castle");
         }
 
 
@@ -163,5 +140,39 @@ public class PlayerScript : MonoBehaviour
         }
        
     }
-    
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if ((other.gameObject.CompareTag("up")) && (Input.GetKey("w") == true))
+        {
+            //go up stairs here
+        }
+
+        if ((other.gameObject.CompareTag("down")) && (Input.GetKey("s") == true))
+        {
+            //go down stairs here
+        }
+    }
+
+    public void LEFT()
+    {
+       
+        if (Helping.GroundCheck(0, -1) == true)
+        {
+            anim.SetBool("run", true);
+        }
+        transform.position = new Vector2(transform.position.x - (speed * Time.deltaTime), transform.position.y);
+        spriteRenderer.flipX = true;
+       
+    }
+
+    public void RIGHT()
+    {
+        if (Helping.GroundCheck(0, -1) == true)
+        {
+            anim.SetBool("run", true);
+        }
+        transform.position = new Vector2(transform.position.x + (speed * Time.deltaTime), transform.position.y);
+        spriteRenderer.flipX = false;
+    }
 }

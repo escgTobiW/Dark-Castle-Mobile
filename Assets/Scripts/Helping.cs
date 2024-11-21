@@ -32,7 +32,7 @@ public class Helping : MonoBehaviour
 
         Color rayColour;
 
-        float distanceToCheck = 0.01f;
+        float distanceToCheck = 0.1f;
         bool isGrounded;
 
 
@@ -112,29 +112,4 @@ public class Helping : MonoBehaviour
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-
-    void Start()
-    {
-        
-    }
-
-    
-    void Update()
-    {
-        
-    }
-*/
 
