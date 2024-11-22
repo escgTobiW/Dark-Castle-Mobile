@@ -229,7 +229,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -1773,7 +1773,72 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sega Genesis 32X - Dark Castle - Shield_0: -362143236143672560
+      Sega Genesis 32X - Dark Castle - Shield_1: 9126016746313408420
+      Sega Genesis 32X - Dark Castle - Shield_10: -5364032704035755333
+      Sega Genesis 32X - Dark Castle - Shield_11: 2011375130261942731
+      Sega Genesis 32X - Dark Castle - Shield_12: -8490744282992259713
+      Sega Genesis 32X - Dark Castle - Shield_13: -5229437166727698318
+      Sega Genesis 32X - Dark Castle - Shield_14: 3494574600189309471
+      Sega Genesis 32X - Dark Castle - Shield_15: -4657521283711622856
+      Sega Genesis 32X - Dark Castle - Shield_16: -931390880070776830
+      Sega Genesis 32X - Dark Castle - Shield_17: -4209469263075648931
+      Sega Genesis 32X - Dark Castle - Shield_18: 1422489643885436038
+      Sega Genesis 32X - Dark Castle - Shield_19: -3450417211785718147
+      Sega Genesis 32X - Dark Castle - Shield_2: -6247863797222015026
+      Sega Genesis 32X - Dark Castle - Shield_20: -7684428649998898652
+      Sega Genesis 32X - Dark Castle - Shield_21: -4032603583186473394
+      Sega Genesis 32X - Dark Castle - Shield_22: 2680966786921358637
+      Sega Genesis 32X - Dark Castle - Shield_23: -6547639295985560220
+      Sega Genesis 32X - Dark Castle - Shield_24: 2921774308823893515
+      Sega Genesis 32X - Dark Castle - Shield_25: 3108925457295271128
+      Sega Genesis 32X - Dark Castle - Shield_26: -6783998633485778871
+      Sega Genesis 32X - Dark Castle - Shield_27: -8734934116357136633
+      Sega Genesis 32X - Dark Castle - Shield_28: 4508173717399683884
+      Sega Genesis 32X - Dark Castle - Shield_29: 7379559608494567619
+      Sega Genesis 32X - Dark Castle - Shield_3: 1748828682070457950
+      Sega Genesis 32X - Dark Castle - Shield_30: -6752622817307929351
+      Sega Genesis 32X - Dark Castle - Shield_31: -6728449628666990820
+      Sega Genesis 32X - Dark Castle - Shield_32: 148631392857106753
+      Sega Genesis 32X - Dark Castle - Shield_33: 1086508256188361920
+      Sega Genesis 32X - Dark Castle - Shield_34: 4928673149564550407
+      Sega Genesis 32X - Dark Castle - Shield_35: 1986043236138264763
+      Sega Genesis 32X - Dark Castle - Shield_36: -7044528087879814274
+      Sega Genesis 32X - Dark Castle - Shield_37: 4622138449973245760
+      Sega Genesis 32X - Dark Castle - Shield_38: 8610467213300535022
+      Sega Genesis 32X - Dark Castle - Shield_39: -4460935906275515360
+      Sega Genesis 32X - Dark Castle - Shield_4: 8563073619258750769
+      Sega Genesis 32X - Dark Castle - Shield_40: -7245994667870119411
+      Sega Genesis 32X - Dark Castle - Shield_41: -8718367543886378233
+      Sega Genesis 32X - Dark Castle - Shield_42: 9069874672120232520
+      Sega Genesis 32X - Dark Castle - Shield_43: -5905082210051378300
+      Sega Genesis 32X - Dark Castle - Shield_44: -4331357148975376240
+      Sega Genesis 32X - Dark Castle - Shield_45: 5082896334235805693
+      Sega Genesis 32X - Dark Castle - Shield_46: -5045933601606517050
+      Sega Genesis 32X - Dark Castle - Shield_47: -5055437495103908997
+      Sega Genesis 32X - Dark Castle - Shield_48: -7982953493303102359
+      Sega Genesis 32X - Dark Castle - Shield_49: -7907726166259830973
+      Sega Genesis 32X - Dark Castle - Shield_5: 1011158974009825042
+      Sega Genesis 32X - Dark Castle - Shield_50: -8161736940876206492
+      Sega Genesis 32X - Dark Castle - Shield_51: -8729905492237773997
+      Sega Genesis 32X - Dark Castle - Shield_52: -6969301390737051773
+      Sega Genesis 32X - Dark Castle - Shield_53: -4881996268951895955
+      Sega Genesis 32X - Dark Castle - Shield_54: -5466422933009163576
+      Sega Genesis 32X - Dark Castle - Shield_55: -1855580238953500531
+      Sega Genesis 32X - Dark Castle - Shield_56: 7685749112011671309
+      Sega Genesis 32X - Dark Castle - Shield_57: 8784040886237776096
+      Sega Genesis 32X - Dark Castle - Shield_58: 4833712928998591790
+      Sega Genesis 32X - Dark Castle - Shield_59: 5354188498495856923
+      Sega Genesis 32X - Dark Castle - Shield_6: -9024545448044561224
+      Sega Genesis 32X - Dark Castle - Shield_60: -3232487524444766848
+      Sega Genesis 32X - Dark Castle - Shield_61: 269192640154879988
+      Sega Genesis 32X - Dark Castle - Shield_62: -655906001937125028
+      Sega Genesis 32X - Dark Castle - Shield_63: 6216734429325100576
+      Sega Genesis 32X - Dark Castle - Shield_64: 8403275415494722996
+      Sega Genesis 32X - Dark Castle - Shield_7: 663693117504817267
+      Sega Genesis 32X - Dark Castle - Shield_8: 3470597526968537226
+      Sega Genesis 32X - Dark Castle - Shield_9: 360381525514311220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

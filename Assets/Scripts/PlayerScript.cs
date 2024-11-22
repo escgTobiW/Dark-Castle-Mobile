@@ -62,39 +62,17 @@ public class PlayerScript : MonoBehaviour
 
             //-----Controls--------
 
-            //---JUMP---         (was UP)
-            if (((Input.GetMouseButtonDown(0) == true) || (Input.touchCount > 0)) && (Helping.GroundCheck(0, -1)) == true)
+            /*
+            //---JUMP---       
+            if (((Input.GetMouseButtonDown(1) == true) || (Input.touchCount > 0)) && (Helping.GroundCheck(0, -1)) == true)
             {
                 //anim.SetBool("jump", true);
                 rb.AddForce(new Vector2(0, jump), ForceMode2D.Impulse);
 
                 
             }
-            /*
-            if (Helping.GroundCheck(0, 0) == false)
-            {
-                anim.SetBool("jump", true);
-            }
-            else
-            {
-                anim.SetBool("jump", false);
-            }
-            */
             
-          
-                
-                
-
-
             
-         
-            else
-            {
-
-                anim.SetBool("run", false);
-
-            }
-
             //----ATTACK---
             if (Input.GetKey("q") == true)
             {
@@ -104,7 +82,7 @@ public class PlayerScript : MonoBehaviour
             {
                 anim.SetBool("attack", false);
             }
-            
+            */
 
         }
         //-----------------------
@@ -133,7 +111,6 @@ public class PlayerScript : MonoBehaviour
             
             canMove = false;
             anim.SetBool("dead", true);
-            //spriteRenderer.sprite = spriteDown;
             dead = true;
           
 
@@ -174,5 +151,18 @@ public class PlayerScript : MonoBehaviour
         }
         transform.position = new Vector2(transform.position.x + (speed * Time.deltaTime), transform.position.y);
         spriteRenderer.flipX = false;
+    }
+
+
+    // if no move buttons then anim bool run should be false!!!!!!!!!!!! do something!
+
+    public void JUMP()
+    {
+        if (Helping.GroundCheck(0, -1) == true)
+        {
+            //anim.SetBool("jump", true);
+            rb.AddForce(new Vector2(0, jump), ForceMode2D.Impulse);
+        }
+    
     }
 }
