@@ -3,9 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Burst.CompilerServices;
 using UnityEditor;
-//using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -22,7 +23,12 @@ public class PlayerScript : MonoBehaviour
     bool dead = false;
     float wait = 1;
 
-   
+    //LeftButton left = new LeftButton();
+    //RightButton right = new RightButton();
+
+
+
+    public bool buttonPress = false;
 
     private SpriteRenderer spriteRenderer;
 
@@ -44,7 +50,7 @@ public class PlayerScript : MonoBehaviour
 
         Helping = gameObject.AddComponent<Helping>();
 
-
+    
     }
 
 
@@ -62,17 +68,31 @@ public class PlayerScript : MonoBehaviour
 
             //-----Controls--------
 
-            /*
-            //---JUMP---       
-            if (((Input.GetMouseButtonDown(1) == true) || (Input.touchCount > 0)) && (Helping.GroundCheck(0, -1)) == true)
-            {
-                //anim.SetBool("jump", true);
-                rb.AddForce(new Vector2(0, jump), ForceMode2D.Impulse);
+            //LeftButton left = new LeftButton();
+            LeftButton left = player.AddComponent<LeftButton>();
+            //RightButton right = new RightButton();
+            RightButton right = player.AddComponent<RightButton>();
 
-                
+            if (left.buttonPress == true)
+            {
+                print("scripts are connected");
+                LEFT();
             }
+
+            if (right.buttonPress == true)
+            {
+                print("scripts are connected");
+                RIGHT();
+            }
+
+
+            if ((left.buttonPress == false) && (right.buttonPress == false))
+            {
+                anim.SetBool("run", false);
+            }
+            /*
             
-            
+  
             //----ATTACK---
             if (Input.GetKey("q") == true)
             {
@@ -154,15 +174,19 @@ public class PlayerScript : MonoBehaviour
     }
 
 
-    // if no move buttons then anim bool run should be false!!!!!!!!!!!! do something!
 
     public void JUMP()
     {
         if (Helping.GroundCheck(0, -1) == true)
         {
-            //anim.SetBool("jump", true);
+            anim.SetBool("jump", true);
             rb.AddForce(new Vector2(0, jump), ForceMode2D.Impulse);
+            //add way to turn off jump bool if landed
         }
     
     }
+
+
+
+
 }
