@@ -23,9 +23,10 @@ public class PlayerScript : MonoBehaviour
     bool dead = false;
     float wait = 1;
 
-    //LeftButton left = new LeftButton();
-    //RightButton right = new RightButton();
+    public LeftButton leftButtonScript;
+    public RightButton rightButtonScript;
 
+    public JumpButton jumpButtonScript;
 
 
     public bool buttonPress = false;
@@ -40,6 +41,7 @@ public class PlayerScript : MonoBehaviour
     Helping Helping;
 
 
+
     void Start()
     {
 
@@ -50,48 +52,44 @@ public class PlayerScript : MonoBehaviour
 
         Helping = gameObject.AddComponent<Helping>();
 
-    
     }
 
 
     void Update()
     {
-       
-
-
-        
 
         if (canMove == true)
         {
 
-
-
             //-----Controls--------
 
-            //LeftButton left = new LeftButton();
-            LeftButton left = player.AddComponent<LeftButton>();
-            //RightButton right = new RightButton();
-            RightButton right = player.AddComponent<RightButton>();
 
-            if (left.buttonPress == true)
+            if (leftButtonScript.buttonPress == true)
             {
-                print("scripts are connected");
+                anim.SetBool("jump", false);
                 LEFT();
             }
 
-            if (right.buttonPress == true)
+            if (rightButtonScript.buttonPress == true)
             {
-                print("scripts are connected");
+                anim.SetBool("jump", false);
                 RIGHT();
             }
 
 
-            if ((left.buttonPress == false) && (right.buttonPress == false))
+            if ((leftButtonScript.buttonPress == false) && (rightButtonScript.buttonPress == false))
             {
                 anim.SetBool("run", false);
             }
+
+
+
+
             /*
-            
+                if (jumpButtonScript.buttonPress == true)
+            {
+                JUMP();
+            }
   
             //----ATTACK---
             if (Input.GetKey("q") == true)
