@@ -40,7 +40,8 @@ public class PlayerScript : MonoBehaviour
 
     Helping Helping;
 
-
+    bool jumping = false;
+    bool midair = false;
 
     void Start()
     {
@@ -60,65 +61,49 @@ public class PlayerScript : MonoBehaviour
 
         if (canMove == true)
         {
-
-            //-----Controls--------
-
-
+            //------------------Movement----------------------------------------
             if (leftButtonScript.buttonPress == true)
             {
-                anim.SetBool("jump", false);
                 LEFT();
             }
 
             if (rightButtonScript.buttonPress == true)
             {
-                anim.SetBool("jump", false);
                 RIGHT();
             }
-
 
             if ((leftButtonScript.buttonPress == false) && (rightButtonScript.buttonPress == false))
             {
                 anim.SetBool("run", false);
             }
 
+            //------------------Jumping----------------------------------------
+            if ((Helping.GroundCheck(0, -1) == false) && (jumping == true))
+            {
+                midair = true;
+            }
+
+            if ((Helping.GroundCheck(0, -1) == true) && (midair == true))
+            {
+                anim.SetBool("jump", false);
+                jumping = false;
+                midair = false;
+            }
 
 
-
-            /*
-                if (jumpButtonScript.buttonPress == true)
-            {
-                JUMP();
-            }
-  
-            //----ATTACK---
-            if (Input.GetKey("q") == true)
-            {
-                anim.SetBool("attack", true);
-            }
-            else
-            {
-                anim.SetBool("attack", false);
-            }
-            */
 
         }
-        //-----------------------
-
+        //------------------Death----------------------------------------
         if (dead == true)
         {
             wait += Time.deltaTime;
 
         }
-        
-
+   
         if (wait > 5)
         {
             SceneManager.LoadScene("Castle");
         }
-
-
-
 
     }
     
@@ -135,7 +120,7 @@ public class PlayerScript : MonoBehaviour
         }
        
     }
-
+    //------------------Stairs----------------------------------------
     private void OnTriggerEnter2D(Collider2D other)
     {
         if ((other.gameObject.CompareTag("up")) && (Input.GetKey("w") == true))
@@ -149,6 +134,8 @@ public class PlayerScript : MonoBehaviour
         }
     }
 
+
+    //-------------------BUTTON ACTIONS-----------------------
     public void LEFT()
     {
        
@@ -179,7 +166,8 @@ public class PlayerScript : MonoBehaviour
         {
             anim.SetBool("jump", true);
             rb.AddForce(new Vector2(0, jump), ForceMode2D.Impulse);
-            //add way to turn off jump bool if landed
+            jumping = true; 
+            
         }
     
     }
