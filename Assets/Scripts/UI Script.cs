@@ -35,25 +35,12 @@ public class UIScript : MonoBehaviour
         SceneManager.LoadScene("Castle");
     }
 
-    /*
-    public void OptionMenu ()
-    {
-        Options.SetActive(true);
-        Main.SetActive(false);
-    }
 
-    public void MainMenu()
-    {
-        
-        Options.SetActive(false);
-        Main.SetActive(true);
-    }
-    */
     public void Quit()
     {
         
-        //Application.Quit();
-        UnityEditor.EditorApplication.isPlaying = false;
+        Application.Quit();
+        //UnityEditor.EditorApplication.isPlaying = false;
     }
 
 

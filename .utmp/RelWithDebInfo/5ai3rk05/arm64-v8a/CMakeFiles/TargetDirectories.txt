@@ -1,0 +1,8 @@
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/year 2/tobi w/Dark Castle Mobile/.utmp/RelWithDebInfo/5ai3rk05/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

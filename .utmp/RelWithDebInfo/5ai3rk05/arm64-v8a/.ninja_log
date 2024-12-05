@@ -1,0 +1,12 @@
+# ninja log v5
+69	599	7550965160720282	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6486abf2f02d3ecd
+600	797	7550965162798647	D:/year 2/tobi w/Dark Castle Mobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ai3rk05/obj/arm64-v8a/libswappywrapper.so	4319a9495ab09458
+19	3379	7550965188436188	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	902e2b31aa1e32e3
+13	3447	7550965189167081	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e3b58962b4076250
+53	3449	7550965189189822	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a538a1b7b8a34715
+26	3503	7550965189800161	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	de0e3065fb96d56
+61	3540	7550965190154314	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8cfbdaf6b918bafa
+7	3588	7550965190677838	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	37735f7474ecaf14
+35	3761	7550965192386313	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d415527bad681e9b
+1	3887	7550965193653035	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	694487e22457f337
+3887	4002	7550965194744383	D:/year 2/tobi w/Dark Castle Mobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ai3rk05/obj/arm64-v8a/libgame.so	8b95a4ef9f5acd18
