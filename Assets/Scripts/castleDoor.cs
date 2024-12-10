@@ -14,11 +14,16 @@ public class castleDoor : MonoBehaviour
 
     void Update()
     {
+
+        anim.SetBool("open", true);
+
+        /*
         if ((Input.GetMouseButtonDown(0) == true) || (Input.touchCount > 0))
         {
             anim.SetBool("open", true);
           
 
         }
+        */
     }
 }

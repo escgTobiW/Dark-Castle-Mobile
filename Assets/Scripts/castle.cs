@@ -19,13 +19,17 @@ public class castle : MonoBehaviour
     void Update()
     {
 
+        anim.SetBool("enter", true);
+        entering = true;
+
+        /*
         if ((Input.GetMouseButtonDown(0) == true) || (Input.touchCount > 0))
         {
             anim.SetBool("enter", true);
             entering = true;
 
         }
-
+        */
         if (entering == true)
         {
             wait += Time.deltaTime;
